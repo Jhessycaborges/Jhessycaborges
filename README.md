@@ -18,6 +18,12 @@ Atualmente, sou estudante de **Engenharia de Software**. Escolhi essa área porq
 
 ---
 
+<a href="[COLE_O_LINK_DO_SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/jhessycaborges/)" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+</a>
+
+---
+
 ### 📊 Minhas Estatísticas
 
 <p align="left">
